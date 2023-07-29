@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @henokthedros
+- 👋 Hi, I’m Henok Thedros
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning at JavaScript
 - 💞️ I’m looking to collaborate on different projects to broaden my understanding
